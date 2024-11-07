@@ -1,0 +1,8 @@
+name = "Git Test Site"
+type = 1
+source = "https://github.com/CStafford-14/hpt.git"
+owner = "System"
+version = 1
+image = "http://upload.wikimedia.org/wikipedia/commons/8/86/Wood.duck.arp.jpg"
+color = "#000055"
+id = "f8032ec6-666d-45ca-b96d-d331152c5273"
